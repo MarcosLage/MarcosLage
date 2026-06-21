@@ -22,6 +22,6 @@
 </div><br/>
 
 Olá como vai? Sou Marcos Lage, apaixonado por tecnologia, software e hardware em geral. Formado técnico em Automação Industrial e também sou formado técnico em eletroeletrônica.
-Futuro Eng° de Software iniciando em 2022 graduação.
+Formado em Eng° de Software wm 2025.
 
 
