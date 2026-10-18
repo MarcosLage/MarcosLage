@@ -43,8 +43,8 @@ Pretendo ampliar meu desenvolvimento com **C#**, explorando a plataforma
 
 ## 📫 Vamos nos conectar
 
-<a href="https://www.instagram.com/marcos.lage/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/techlage_eletronica_agricola/">
+  <img alt="Instagram TechLage" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 📍 Rio Verde — GO, Brasil.
