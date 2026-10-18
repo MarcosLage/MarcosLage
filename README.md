@@ -49,5 +49,8 @@ Pretendo ampliar meu desenvolvimento com **C#**, explorando a plataforma
 <a href="https://www.youtube.com/@SoftwareHardwareEletronica">
   <img alt="YouTube Software Hardware Eletrônica" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+<a href="https://www.tiktok.com/@software_hardware_eletro">
+  <img alt="TikTok Software Hardware Eletro" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
 
 📍 Rio Verde — GO, Brasil.
