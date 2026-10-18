@@ -1,49 +1,50 @@
-# Marcos Lage
+# Olá! Eu sou Marcos Lage 👋
 
-### Engenharia de Software · Sistemas Embarcados · Automação Industrial
+### 💻 Engenharia de Software | Sistemas Embarcados | Automação Industrial
 
-Sou formado em Engenharia de Software, com formação técnica em
-Automação Industrial e Eletroeletrônica.
+Sou formado em **Engenharia de Software**, com formação técnica em
+**Automação Industrial** e **Eletroeletrônica**.
 
-Meu foco de desenvolvimento está em sistemas embarcados e na integração
-entre hardware e software. Tenho interesse em transformar necessidades
-do mundo físico em soluções por meio da programação, da eletrônica
-e da automação.
+Meu foco está no desenvolvimento em **C e C++**, voltado a sistemas
+embarcados e à integração entre **hardware e software**. Gosto de unir
+programação, eletrônica e automação para transformar ideias em soluções práticas.
 
-## Sobre mim
+---
 
-Minha formação reúne três áreas complementares:
+## 🛠️ Tecnologias e desenvolvimento
 
-- **Engenharia de Software:** base para estruturar, desenvolver e manter software.
-- **Automação Industrial:** visão de processos, controle e integração de sistemas.
-- **Eletroeletrônica:** base técnica para compreender circuitos e dispositivos.
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-Estou retomando a organização dos meus projetos no GitHub para manter
-um histórico de desenvolvimento e compartilhar a evolução das minhas soluções.
+🔹 Desenvolvimento com foco em **C e C++**.  
+🔹 Interesse em **sistemas embarcados, eletrônica e automação**.  
+🔹 Organização e evolução dos meus projetos com **Git e GitHub**.
 
-## Foco dos projetos
+### 🚀 Próximos passos
 
-- Sistemas embarcados.
-- Integração entre hardware e software.
-- Eletrônica aplicada e automação.
-- Ferramentas de software que apoiam essas soluções.
+<p>
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-## Neste GitHub
+Pretendo ampliar meu desenvolvimento com **C#**, explorando a plataforma
+**.NET** em projetos futuros.
 
-Você encontrará projetos, estudos e experimentos organizados ao longo
-da minha trajetória, com documentação sobre seus objetivos, funcionamento
-e etapas de desenvolvimento.
+---
 
-Busco registrar tanto o resultado quanto as decisões técnicas e os
-aprendizados de cada projeto.
+## 🎓 Formação
 
-## Formação
+🎓 **Engenharia de Software** — concluída em 2025.  
+⚙️ **Técnico em Automação Industrial**.  
+🔌 **Técnico em Eletroeletrônica**.
 
-- Engenharia de Software — concluída em 2025.
-- Técnico em Automação Industrial.
-- Técnico em Eletroeletrônica.
+---
 
-## Contato
+## 📫 Vamos nos conectar
 
-- [Instagram](https://www.instagram.com/marcos.lage/)
-- Rio Verde — GO, Brasil.
+<a href="https://www.instagram.com/marcos.lage/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+📍 Rio Verde — GO, Brasil.
