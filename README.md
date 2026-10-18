@@ -1,27 +1,49 @@
-### Hi there 👋
+# Marcos Lage
 
+### Engenharia de Software · Sistemas Embarcados · Automação Industrial
 
-### Olá! eu sou Marcos Lage! 👋
+Sou formado em Engenharia de Software, com formação técnica em
+Automação Industrial e Eletroeletrônica.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNyqP6_A2OYyrbbGfHDCu6Q)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/software_hardware_eletronica/)
+Meu foco de desenvolvimento está em sistemas embarcados e na integração
+entre hardware e software. Tenho interesse em transformar necessidades
+do mundo físico em soluções por meio da programação, da eletrônica
+e da automação.
 
-![MarcosLage GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosLage&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLage)](https://github.com/anuraghazra/github-readme-stats)
+## Sobre mim
 
-## Tecnologias do dia a dia
+Minha formação reúne três áreas complementares:
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  
-</div><br/>
+- **Engenharia de Software:** base para estruturar, desenvolver e manter software.
+- **Automação Industrial:** visão de processos, controle e integração de sistemas.
+- **Eletroeletrônica:** base técnica para compreender circuitos e dispositivos.
 
-Olá como vai? Sou Marcos Lage, apaixonado por tecnologia, software e hardware em geral. Formado técnico em Automação Industrial e também sou formado técnico em eletroeletrônica.
-Formado em Eng° de Software wm 2025.
+Estou retomando a organização dos meus projetos no GitHub para manter
+um histórico de desenvolvimento e compartilhar a evolução das minhas soluções.
 
+## Foco dos projetos
 
+- Sistemas embarcados.
+- Integração entre hardware e software.
+- Eletrônica aplicada e automação.
+- Ferramentas de software que apoiam essas soluções.
+
+## Neste GitHub
+
+Você encontrará projetos, estudos e experimentos organizados ao longo
+da minha trajetória, com documentação sobre seus objetivos, funcionamento
+e etapas de desenvolvimento.
+
+Busco registrar tanto o resultado quanto as decisões técnicas e os
+aprendizados de cada projeto.
+
+## Formação
+
+- Engenharia de Software — concluída em 2025.
+- Técnico em Automação Industrial.
+- Técnico em Eletroeletrônica.
+
+## Contato
+
+- [Instagram](https://www.instagram.com/marcos.lage/)
+- Rio Verde — GO, Brasil.
